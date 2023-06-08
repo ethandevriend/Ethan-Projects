@@ -1,13 +1,10 @@
-import javax.swing.JFrame;
-import javax.swing.JPanel;
 
-public class Main extends JPanel {
-	
-	JFrame jFrame = new JFrame();
+public class Main {
+
 
 	public static void main(String[] args) {
 		
-		Window window = new Window(600, 800, "Valor Calculator");
+		Window window = new Window(90, 800, "Valor Calculator");
 
 	}
 	
