@@ -1,3 +1,5 @@
+UNO PROJECT
+
 I am using the normal version of the rules. I changed them a bit to when you get
 a full hand of 14 cards you automatically lose. This was to help with the fact that a hand could 
 only fit so many slots with the GUI I was trying to implement.
